@@ -1,0 +1,18 @@
+{
+  "name": "asia-holidays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/main.css -w"
+  },
+  "author": "Nikitochka",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "compile-sass": "^0.1.2",
+    "node-sass": "^4.12.0"
+  }
+}
